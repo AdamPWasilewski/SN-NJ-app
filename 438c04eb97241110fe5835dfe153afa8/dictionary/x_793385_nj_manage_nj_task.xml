@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="NJ Task" max_length="40" name="x_793385_nj_manage_nj_task" type="collection"/>
+</database>
